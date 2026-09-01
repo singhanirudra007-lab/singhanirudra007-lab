@@ -29,12 +29,12 @@ Currently exploring ways to turn design skills into real, low-cost projects.
 ### find my work
 
 - 🎨 Portfolio: **[your GitHub Pages link here]**
-- ✉️ Email: **[[youremail@example.com](https://mail.google.com/mail/u/0/#inbox)]**
-- 💼 LinkedIn: **[[your LinkedIn link here](https://www.linkedin.com/in/anirudra-s-1ab2b5263/)]**
-- 📸 Behance: **[[your link here](https://www.behance.net/anirudrasingh1)]**
+- ✉️ Email: **[(https://mail.google.com/mail/u/0/#inbox)]**
+- 💼 LinkedIn: **[(https://www.linkedin.com/in/anirudra-s-1ab2b5263/)]**
+- 📸 Behance: **[(https://www.behance.net/anirudrasingh1)]**
 
 ---
 
 <div align="center">
-<sub>built with HTML, 
+<sub>built with HTML,and love
 </div>
