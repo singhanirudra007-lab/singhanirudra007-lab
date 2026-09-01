@@ -1,4 +1,5 @@
 <div align="center">
+<img width="734" height="195" alt="download (1)" src="https://github.com/user-attachments/assets/d201710e-16e2-4db3-9b3b-b75b0e6103b5" />
 
 # Anirudra Singh
 
