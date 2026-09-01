@@ -2,8 +2,9 @@
 
 # Anirudra
 
-**Product & UI/UX Designer** — design student building interfaces and brand identities that don't get in the way
+**Hello - I’m Anirudra,**
 
+A Multidisciplinary Designer focused on crafting clean, functional, and visually engaging digital experiences. I blend UI/UX, visual design, and creative thinking to build work that feels both intuitive and impactful. driven by minimal aesthetics, structured design systems, and attention to detail,  I aim to create experiences that connect simplicity with purpose.
 🟢 Open to new work & good problems · Jaipur, IN
 
 </div>
@@ -14,7 +15,7 @@
 
 I'm a design student who gets a little too excited about turning messy problems into simple interfaces — and messy brands into clear ones. I care about the small details everyone forgets, and the ones that make someone's day easier.
 
-Currently exploring ways to turn design skills into real, low-cost projects — this profile and my portfolio site are two of them.
+Currently exploring ways to turn design skills into real, low-cost projects.
 
 ### what I work with
 
