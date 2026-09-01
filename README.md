@@ -1,10 +1,11 @@
 <div align="center">
 
-# Anirudra
+# Anirudra Singh
 
 **Hello - I’m Anirudra,**
 
 A Multidisciplinary Designer focused on crafting clean, functional, and visually engaging digital experiences. I blend UI/UX, visual design, and creative thinking to build work that feels both intuitive and impactful. driven by minimal aesthetics, structured design systems, and attention to detail,  I aim to create experiences that connect simplicity with purpose.
+
 🟢 Open to new work & good problems · Jaipur, IN
 
 </div>
